@@ -1,3 +1,5 @@
+# WORK UNDER PROGRESS!! USE THE ORIGINAL angular2-odata INSTEAD!!
+
 # angular2-odata
 The goal is to create a fluent API for querying, creating, updating and deleting OData resources in Angular2.
 OData service for Angular.
